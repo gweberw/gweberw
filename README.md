@@ -2,7 +2,7 @@
 
 <!-- 01 // IDENTITY -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=200&section=header&text=GUSTAVO%20WEBER&fontSize=42&fontColor=00E5A0&animation=fadeIn&fontAlignY=38&desc=SYSTEM_AUDIT%20//%20Comprador%20%E2%86%92%20Dev%20%26%20Dados&descAlignY=58&descSize=16&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=200&section=header&text=GUSTAVO%20WEBER&fontSize=42&fontColor=00E5A0&animation=fadeIn&fontAlignY=45&desc=Comprador%20em%20transicao%20para%20Dev%20e%20Dados&descAlignY=65&descSize=16&descColor=8B949E" width="100%"/>
 
 <br/>
 
@@ -148,4 +148,5 @@ Plataforma web para auditar fretes pagos por uma empresa: importa XMLs de **NF-e
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer&text=&fontSize=0" width="100%"/>
+
