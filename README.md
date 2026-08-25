@@ -127,7 +127,6 @@ Plataforma web para auditar fretes pagos por uma empresa: importa XMLs de **NF-e
 
 </div>
 
-> ⚠️ Esses widgets dependem de serviços externos (github-readme-stats, streak-stats). Eles podem ficar temporariamente fora do ar — se isso acontecer, os cards somem ou não carregam até o serviço voltar. Nenhum número aqui é inventado; tudo é calculado automaticamente pelo próprio serviço a partir da conta real do GitHub.
 
 <br/>
 
