@@ -26,7 +26,7 @@ const developer = {
   role: "Computer Science Student | Procurement Professional in transition to Tech",
   background: "4+ anos em Suprimentos (indústria metalúrgica), migrando para Dev & Dados",
   stack: ["Python", "SQL", "FastAPI", "React", "TypeScript"],
-  studying: ["Ciência da Computação (FSG, 2026–2030)", "Python", "SQL", "AI & Automation"],
+  studying: ["Ciência da Computação (FSG - Faculdade da Serra Gaúcha)", "Python", "SQL", "AI & Automation"],
   building: "Sistema de Auditoria de Fretes (NF-e x CT-e)",
   mindset: "Code. Audit. Automate. Evolve."
 };
