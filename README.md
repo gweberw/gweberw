@@ -2,7 +2,7 @@
 
 <!-- 01 // IDENTITY -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=200&section=header&text=GUSTAVO%20WEBER&fontSize=42&fontColor=00E5A0&animation=fadeIn&fontAlignY=45&desc=Back-End%20Developer&descAlignY=65&descSize=16&descColor=8B949E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=200&section=header&text=GUSTAVO%20WEBER&fontSize=42&fontColor=00E5A0&animation=fadeIn&fontAlignY=45&desc=Building%20systems%2C%20one%20commit%20at%20a%20time&descAlignY=65&descSize=16&descColor=8B949E" width="100%"/>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00E5A0?style=for-the-badge&labelColor=0D1117)
 ![Foco](https://img.shields.io/badge/FOCO-DEV%20%26%20DADOS-00E5A0?style=for-the-badge&labelColor=0D1117)
-![Origem](https://img.shields.io/badge/ORIGEM-SUPRIMENTOS-8B949E?style=for-the-badge&labelColor=0D1117)
+![Aprendendo](https://img.shields.io/badge/APRENDENDO-PYTHON%20%7C%20SQL-8B949E?style=for-the-badge&labelColor=0D1117)
 
 </div>
 
@@ -23,16 +23,15 @@
 ```typescript
 const developer = {
   name: "Gustavo Weber",
-  role: "Computer Science Student | Procurement Professional in transition to Tech",
-  background: "4+ anos em Suprimentos (indústria metalúrgica), migrando para Dev & Dados",
+  role: "Computer Science Student | Aspiring Software & Data Developer",
   stack: ["Python", "SQL", "FastAPI", "React", "TypeScript"],
-  studying: ["Ciência da Computação (FSG - Faculdade da Serra Gaúcha)", "Python", "SQL", "AI & Automation"],
+  studying: ["Ciência da Computação (FSG, 2026–2030)", "Python", "SQL", "AI & Automation"],
   building: "Sistema de Auditoria de Fretes (NF-e x CT-e)",
   mindset: "Code. Audit. Automate. Evolve."
 };
 ```
 
-> Saindo da rotina de Compras — onde vivia entre planilhas, cotações e indicadores de fornecedores — para construir os próprios sistemas que automatizam esse tipo de processo.
+> Curioso por natureza, aprendendo a construir os sistemas que antes só usava — um projeto de cada vez.
 
 <br/>
 
@@ -75,11 +74,10 @@ const developer = {
 > booting audit_system...
 
 [ OK ] Developer profile loaded
-[ OK ] Procurement background modules loaded
 [ OK ] Front-end modules loaded
 [ OK ] Back-end modules loaded
 
-ROLE        : Computer Science Student / Procurement → Tech
+ROLE        : Computer Science Student
 STACK       : Python, SQL, FastAPI, React, TypeScript
 BUILDING    : Sistema de Auditoria de Fretes
 STUDYING    : Ciência da Computação, IA & Automação
@@ -110,6 +108,7 @@ Plataforma web para auditar fretes pagos por uma empresa: importa XMLs de **NF-e
 
 ## `05 //` PROJECT_ARCHIVE
 
+
 <br/>
 
 ## `06 //` SYSTEM_METRICS
@@ -124,7 +123,6 @@ Plataforma web para auditar fretes pagos por uma empresa: importa XMLs de **NF-e
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gweberw&theme=dark&background=0D1117&stroke=00E5A0&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0" width="48%"/>
 
 </div>
-
 
 <br/>
 
@@ -147,4 +145,5 @@ Plataforma web para auditar fretes pagos por uma empresa: importa XMLs de **NF-e
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer&text=&fontSize=0" width="100%"/>
+
 
