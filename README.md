@@ -110,8 +110,6 @@ Plataforma web para auditar fretes pagos por uma empresa: importa XMLs de **NF-e
 
 ## `05 //` PROJECT_ARCHIVE
 
-> Espaço reservado para projetos de estudo e experimentos anteriores. À medida que novos repositórios forem publicados, eles entram aqui — mantendo o histórico da evolução, sem tirar o foco do projeto principal acima.
-
 <br/>
 
 ## `06 //` SYSTEM_METRICS
